@@ -1,0 +1,184 @@
+# Copyright (C) 2014 Predator Alert Tool for Twitter
+# This file is distributed under the same license as the Predator Alert Tool for Twitter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Predator Alert Tool for Twitter 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-pat-twitter\n"
+"POT-Creation-Date: 2014-05-29 22:44:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-pat-twitter.php:95
+msgid "Connect to Twitter"
+msgstr ""
+
+#: wp-pat-twitter.php:95
+msgid ""
+"Almost done! Connect your blog to Twitter to begin using Predator Alert Tool "
+"for Twitter."
+msgstr ""
+
+#: wp-pat-twitter.php:115
+msgid "1 member"
+msgid_plural "%s members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-pat-twitter.php:118
+msgid "Export"
+msgstr ""
+
+#: wp-pat-twitter.php:133
+msgid "Consumer key cannot be empty."
+msgstr ""
+
+#: wp-pat-twitter.php:140
+msgid "Consumer secret cannot be empty."
+msgstr ""
+
+#: wp-pat-twitter.php:297
+msgid "PAT Twitter Lists"
+msgstr ""
+
+#: wp-pat-twitter.php:298
+msgid "PAT Twitter List"
+msgstr ""
+
+#: wp-pat-twitter.php:302
+msgid ""
+"A PAT Twitter list is a way to group alerts about dangerous, predatory, or "
+"harassing behavior on Twitter and share that information with other users."
+msgstr ""
+
+#: wp-pat-twitter.php:316 wp-pat-twitter.php:317
+msgid "PAT Twitter Settings"
+msgstr ""
+
+#: wp-pat-twitter.php:324
+msgid "Download Predator Alert Tool for Twitter"
+msgstr ""
+
+#: wp-pat-twitter.php:325
+msgid "Install PAT Twitter"
+msgstr ""
+
+#: wp-pat-twitter.php:338
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-pat-twitter.php:342
+msgid "Predator Alert Tool for Twitter Settings"
+msgstr ""
+
+#: wp-pat-twitter.php:345
+msgid "Connection to Twitter"
+msgstr ""
+
+#: wp-pat-twitter.php:346
+msgid "Required settings to connect to Twitter."
+msgstr ""
+
+#: wp-pat-twitter.php:350
+msgid "Twitter API key/OAuth consumer key"
+msgstr ""
+
+#: wp-pat-twitter.php:353
+msgid "Paste your API key here"
+msgstr ""
+
+#: wp-pat-twitter.php:355
+msgid "Your Twitter API key is also called your consumer key."
+msgstr ""
+
+#: wp-pat-twitter.php:357
+msgid "If you need an API key, you can %s."
+msgstr ""
+
+#: wp-pat-twitter.php:359
+msgid ""
+"Get an API key from Twitter by registering your WordPress blog as a new "
+"Twitter app."
+msgstr ""
+
+#: wp-pat-twitter.php:360
+msgid "create one here"
+msgstr ""
+
+#: wp-pat-twitter.php:362
+msgid ""
+"Be sure you grant \"Read & write\" permissions for your app after creating "
+"it."
+msgstr ""
+
+#: wp-pat-twitter.php:368
+msgid "Twitter API secret/OAuth consumer secret"
+msgstr ""
+
+#: wp-pat-twitter.php:371
+msgid "Paste your consumer secret here"
+msgstr ""
+
+#: wp-pat-twitter.php:373
+msgid ""
+"Your consumer secret is like your app password. Never share this with anyone."
+msgstr ""
+
+#: wp-pat-twitter.php:380
+msgid "Enable detailed debugging information?"
+msgstr ""
+
+#: wp-pat-twitter.php:387
+msgid ""
+"Turn this on only if you are experiencing problems using this plugin, or if "
+"you were told to do so by someone helping you fix a problem (or if you "
+"really know what you are doing). When enabled, extremely detailed technical "
+"information is displayed as a WordPress admin notice when you take actions "
+"like sending a crosspost. If you have also enabled WordPress's built-in "
+"debugging (%1$s) and debug log (%2$s) feature, additional information will "
+"be sent to a log file (%3$s). This file may contain sensitive information, "
+"so turn this off and erase the debug log file when you have resolved the "
+"issue."
+msgstr ""
+
+#. #-#-#-#-#  wp-pat-twitter.pot (Predator Alert Tool for Twitter 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-pat-twitter.php:404 wp-pat-twitter.php:425
+msgid "Predator Alert Tool for Twitter"
+msgstr ""
+
+#: wp-pat-twitter.php:436
+msgid "Click here to connect to Twitter"
+msgstr ""
+
+#: wp-pat-twitter.php:444
+msgid "Connected to Twitter!"
+msgstr ""
+
+#: wp-pat-twitter.php:447
+msgid ""
+"Click here to download and install Predator Alert Tool for Twitter in your "
+"browser."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://maybemaimed.com/predator-alert-tool-for-twitter/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Turns your WordPress-powered website into a <a href=\"https://github.com/"
+"meitar/pat-twitter/\">Predator Alert Tool for Twitter</a> facilitation "
+"server so you can help keep your community safe from predators on Twitter. "
+"Remember, there is <a href=\"http://maybemaimed.com/2013/10/09/no-good-"
+"excuse-for-not-building-sexual-violence-prevention-tools-into-every-social-"
+"network-on-the-internet/\">no good excuse for not building sexual violence "
+"prevention tools into every social network on the Internet</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://maymay.net/\">Maymay</a>"
+msgstr ""
